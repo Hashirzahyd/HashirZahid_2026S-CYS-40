@@ -3,7 +3,6 @@
 **Student:** Hashir Zahid
 **Roll Number:** 2026(S)-CYS-40
 **Language:** Python
-**Description:** Lab tasks and weekly programming exercises for Programming Fundamentals.
 
 ## Structure
 - `Week1/` to `Week12/` — Weekly lab tasks
@@ -15,3 +14,6 @@
 - Fibonacci Series and Factorial Code
 - PYQT GUI Based Python Project
 - CEA Ecat Portal CLI Project
+
+## Description
+- Lab tasks and weekly programming exercises for Programming Fundamentals.
