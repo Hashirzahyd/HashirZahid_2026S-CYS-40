@@ -17,5 +17,9 @@
 ## Standalone Codes
 - Fibonacci Series and Factorial Code
 
+## Image 
+<img width="734" height="677" alt="image" src="https://github.com/user-attachments/assets/028b2922-2b5d-4646-a674-c308c7ebeceb" />
+
 ## Description
 - Lab tasks and weekly programming exercises for Programming Fundamentals.
+
