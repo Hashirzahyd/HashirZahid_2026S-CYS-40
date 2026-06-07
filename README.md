@@ -6,7 +6,7 @@
 **Description:** Lab tasks and weekly programming exercises for Programming Fundamentals.
 
 ## Structure
-- `Week_1/` to `Week_12/` — Weekly lab tasks
+- `Week1/` to `Week12/` — Weekly lab tasks
 - `src/` — Source code
 - `tests/` — Test files
 - `docs/` — Documentation
