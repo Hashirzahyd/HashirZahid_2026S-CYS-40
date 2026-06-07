@@ -11,9 +11,11 @@
 - `docs/` — Documentation
 
 ## Projects
-- Fibonacci Series and Factorial Code
 - PYQT GUI Based Python Project
 - CEA Ecat Portal CLI Project
+ 
+## Standalone Codes
+- Fibonacci Series and Factorial Code
 
 ## Description
 - Lab tasks and weekly programming exercises for Programming Fundamentals.
