@@ -14,7 +14,7 @@
 - `docs` — Documentation
 
 ## Projects
-- PYQT GUI Based Python Project
+- Final Project Based on PyQt5 and SQLite
 - CEA Ecat Portal CLI Project
  
 ## Standalone Codes
